@@ -1,6 +1,6 @@
 **PROJECT**: E-Commerce SQL Analytics System
 
-**OBJECTIVE**: Simple system to Analyze customer behaviour and order data using SQL
+**OBJECTIVE**: Analyze customer behavior and order data using SQL to generate meaningful business insights.
 
 **DATABASE DESIGN**: 
 TABLES: Customers ( customer_id INT PK, name VARCHAR),
